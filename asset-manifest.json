@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tracktask-pro/static/css/main.073c9b0a.css",
+    "main.js": "/tracktask-pro/static/js/main.8b4a89ba.js",
+    "static/js/787.00a6fe83.chunk.js": "/tracktask-pro/static/js/787.00a6fe83.chunk.js",
+    "static/media/logo.svg": "/tracktask-pro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tracktask-pro/index.html",
+    "main.073c9b0a.css.map": "/tracktask-pro/static/css/main.073c9b0a.css.map",
+    "main.8b4a89ba.js.map": "/tracktask-pro/static/js/main.8b4a89ba.js.map",
+    "787.00a6fe83.chunk.js.map": "/tracktask-pro/static/js/787.00a6fe83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b4a89ba.js"
+  ]
+}
